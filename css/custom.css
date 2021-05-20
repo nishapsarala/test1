@@ -1,0 +1,27 @@
+.panel-heading{
+	margin-top: 2%;
+    border: 1px solid #000;
+    background-color: #eae9e966;
+}
+.list_remove_button{
+	margin-left: 50%;
+}
+label{
+	float: left;
+}
+hr{
+	border-top:1px solid #ccc !important;
+}
+.md{
+   border-right: 1px solid #ccc;
+}
+p{
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+.search{
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+}

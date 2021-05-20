@@ -1,0 +1,10 @@
+1,C:\Test\Documents\Images\Image1.jpg
+2,C:\Test\Documents\Images\Image2.jpg
+3,C:\Test\Documents\Images\Image3.jpg
+4,C:\Test\Documents\Works\Accountant\Accounting.pdf
+5,C:\Test\Documents\Works\Accountant\AnnualReport.pdf
+6,C:\Test\Documents\Works\Letter.docx
+7,C:\Test\Program Files\Mysql\Mysql - Copy.php
+8,C:\Test\Program Files\Mysql\Mysql.php
+9,C:\Test\Program Files\Skype\readme.txt
+10,C:\Test\Program Files\Skype\skype.php
